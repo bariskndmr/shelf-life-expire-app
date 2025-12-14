@@ -23,7 +23,7 @@ Expo CLI will let you open in iOS/Android simulators, a development build, or Ex
 ## Common scripts
 
 - `yarn start` – start the dev server.
-- `yarn android` / `yarn ios` / `yarn web` – platform targets.
+- `yarn android` / `yarn ios` – platform targets.
 - `yarn lint` – run ESLint.
 
 ## Notes
